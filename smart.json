@@ -1,6 +1,6 @@
 {
   "name": "traceur",
-  "description": "Traceur for meteor",
+  "description": "Traceur is a JavaScript.next-to-JavaScript-of-today compiler that allows you to use features from the future today.",
   "homepage": "https://github.com/andrewreedy/meteor-traceur",
   "author": "Andrew Reedy",
   "version": "0.0.2",
