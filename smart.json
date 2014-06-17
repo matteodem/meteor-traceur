@@ -1,0 +1,8 @@
+{
+  "name": "traceur",
+  "description": "Traceur for meteor",
+  "homepage": "https://github.com/andrewreedy/meteor-traceur",
+  "author": "Andrew Reedy",
+  "version": "0.0.2",
+  "git": "https://github.com/andrewreedy/meteor-traceur.git"
+}
