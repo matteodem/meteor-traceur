@@ -1,9 +1,8 @@
 Package.describe({
-  summary: "Javascript next to Javascript of today compiler"
-});
-
-Package.on_use(function (api) {
-  api.add_files(".npm/plugin/compileTraceur/node_modules/traceur/bin/traceur-runtime.js");
+  name: "matteodem:traceur",
+  version: "1.0.0",
+  summary: "Javascript next to Javascript of today compiler",
+  git: "https://github.com/matteodem/meteor-traceur.git"
 });
 
 Package._transitional_registerBuildPlugin({
